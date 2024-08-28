@@ -10,7 +10,7 @@ Usermodel(
   this.id,
   this.email,
   this.phone,
-  this.profileimage
+  this.profileimage, required String about
   }
 );
 
